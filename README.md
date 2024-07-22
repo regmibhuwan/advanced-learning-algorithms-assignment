@@ -1,6 +1,6 @@
-# Advanced Learning Algorithms Assignment
+# Neural-network-tuning-project
 
-This repository contains an assignment focused on implementing advanced learning algorithms. The project is part of Andrew Ng's Machine Learning Specialization and covers topics such as neural networks, optimization algorithms, and more.
+This repository contains an assignment focused on evaluating and improving machine learning models. The project is part of Andrew Ng's Machine Learning Specialization and covers topics such as polynomial regression, neural networks, bias and variance, regularization, and model complexity.
 
 ## Contents
 - `C2_W3_Assignment.ipynb`: Jupyter notebook with the assignment implementation and exercises.
@@ -8,10 +8,20 @@ This repository contains an assignment focused on implementing advanced learning
 
 ## Description
 In this assignment, you will:
-- Implement neural networks and understand their architecture.
-- Apply optimization algorithms to improve model performance.
-- Explore techniques like regularization to prevent overfitting.
-- Work with advanced neural network architectures.
+- Implement techniques to evaluate learning algorithms using polynomial regression and neural networks.
+- Split data into training, cross-validation, and test sets to assess model performance.
+- Explore the concepts of bias and variance, and their impact on model performance.
+- Implement and tune regularization to prevent overfitting.
+- Create and compare simple and complex neural network models.
+- Use error analysis to determine if a model is overfitting or underfitting.
+- Iterate to find optimal regularization values for neural network models.
+
+## Key implementations include:
+
+- Creating functions to evaluate mean squared error and classification error.
+- Building and comparing simple and complex neural network models.
+- Applying regularization to neural network models.
+- Visualizing model performance across different complexities and regularization values.
 
 ## How to Run
 
