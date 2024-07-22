@@ -27,7 +27,7 @@ In this assignment, you will:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/regmibhuwan/advanced-learning-algorithms-assignment.git
+   git clone (https://github.com/regmibhuwan/neural-network-tuning-project)
 
 2. **Navigate to the Project Directory**:
 
